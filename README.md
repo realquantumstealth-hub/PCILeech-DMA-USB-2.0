@@ -1,4 +1,4 @@
-# PCILeech-DMA-4090
-Quantumstealth open source 4090 firmware.
+# PCILeech-DMA-USB-2.0
+Quantumstealth open source USB-2.0 firmware.
 
 Quantumstealth discord:https://discord.gg/qstealth
